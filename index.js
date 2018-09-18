@@ -13,3 +13,7 @@ return object
 function deleteFromObjectByKey(object,key){
 let newObject=delete object.key
 return newObject}
+
+function destructivelyDeleteFromObjectByKey(object,key){
+  
+}
