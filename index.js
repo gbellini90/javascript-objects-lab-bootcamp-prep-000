@@ -15,5 +15,5 @@ let newObject=delete object.key
 return newObject}
 
 function destructivelyDeleteFromObjectByKey(object,key){
-  
+  delete object.key
 }
