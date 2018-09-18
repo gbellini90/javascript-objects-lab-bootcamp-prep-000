@@ -10,6 +10,6 @@ object[key]=value
 return object
 }
 
-function deleteFromObjectByKey(object,key){}
+function deleteFromObjectByKey(object,key){
 let newObject=delete object.key
-return newObject
+return newObject}
